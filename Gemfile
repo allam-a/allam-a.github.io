@@ -28,4 +28,5 @@ group :jekyll_plugins do
   gem "eventmachine"
   gem 'tzinfo'
   gem 'tzinfo-data'
+  gem 'webrick'
 end
