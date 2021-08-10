@@ -26,7 +26,7 @@ author_profile: true
 1. __A. Allam__, A. Elrakaybi, A. Abdel Nabi, A. Al Dahshan, and Y. Fangary, “Pressure Distribution and Flow Visualization of an SUV,” Ain Shams Journal of Mechanical Engineering, vol. 2, Oct. 2010.
 
 # Masters Thesis
-A. Allam, “Wave Propagation Control Using Active Acoustic Metamaterials,” MSc., Ain Shams University, Cairo, 2017. doi: [10.13140/RG.2.2.10935.85924](https://doi.org/10.13140/RG.2.2.10935.85924).
+A. Allam, “Wave Propagation Control Using Active Acoustic Metamaterials,” MSc., Ain Shams University, Cairo, 2017. doi: [10.13140/RG.2.2.10935.85924](https://doi.org/10.13140/RG.2.2.10935.85924).([Full Text])({{site.base_path/files/allam_wave_2018}})
 
 # Conference Proceedings
 1. __A. Allam__, K. Sabra, and A. Erturk, “Enhanced Sound Energy Harvesting by Leveraging Gradient-Index Phononic Crystals,” presented at the ASME 2020 Conference on Smart Materials, Adaptive Structures and Intelligent Systems, Online, Sep. 2020. doi: [10.1115/SMASIS2020-2411](https://doi.org/10.1115/SMASIS2020-2411).
