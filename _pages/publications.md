@@ -10,11 +10,11 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-## 2021
-1. __A. Allam__, C. Sugino, M. Harding, D. P. Bishop, A. Erturk, and M. Ruzzene, “Phased Array Ultrasonic Testing of Inconel 625 Produced by Selective Laser Melting,” ASME Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems, vol. 4, no. 041006, May 2021, doi: [10.1115/1.4050963]( https://doi.org/10.1115/1.4050963).([Full Text])({{site.base_path}}/files/allam_phased_2021.pdf)
+
+1. __A. Allam__, C. Sugino, M. Harding, D. P. Bishop, A. Erturk, and M. Ruzzene, “Phased Array Ultrasonic Testing of Inconel 625 Produced by Selective Laser Melting,” ASME Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems, vol. 4, no. 041006, May 2021, doi: [10.1115/1.4050963]( https://doi.org/10.1115/1.4050963).([Full Text]({{site.base_path}}/files/allam_phased_2021.pdf))
 ## 2020
 1. __A. Allam__, K. Sabra, and A. Erturk, “Sound Energy Harvesting by Leveraging a 3D-Printed Phononic Crystal Lens,” Applied Physics Letters, vol. 118, no. 10, p. 103504, Mar. 2021, doi: [10.1063/5.0030698](https://doi.org/10.1063/5.0030698).
-1. __A. Allam__, K. Sabra, and A. Erturk, “3D-Printed Gradient-Index Phononic Crystal Lens for Underwater Acoustic Wave Focusing,” Physical Review Applied, vol. 13, no. 6, p. 064064, Jun. 2020, doi: [10.1103/PhysRevApplied.13.064064](https://doi.org/10.1103/PhysRevApplied.13.064064).
+1. __A. Allam__, K. Sabra, and A. Erturk, “3D-Printed Gradient-Index Phononic Crystal Lens for Underwater Acoustic Wave Focusing,” Physical Review Applied, vol. 13, no. 6, p. 064064, Jun. 2020, doi: [10.1103/PhysRevApplied.13.064064](https://doi.org/10.1103/PhysRevApplied.13.064064).([Full Text]({{site.base_path/files/allam_3D-printed.pdf))
 1. __A. Allam__, K. G. Sabra, and A. Erturk, “Aspect Ratio-Dependent Dynamics of Piezoelectric Transducers in Wireless Acoustic Power Transfer,” IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 67, no. 5, pp. 984–996, May 2020, doi: [10.1109/TUFFC.2019.2962711](https://doi.org/10.1109/TUFFC.2019.2962711).
 ## 2019
 1. S. Alan, __A. Allam__, and A. Erturk, “Programmable Mode Conversion and Bandgap Formation for Surface Acoustic Waves Using Piezoelectric Metamaterials,” Applied Physics Letters, vol. 115, no. 9, p. 093502, Aug. 2019, doi: [10.1063/1.5110701](https://doi.org/10.1063/1.5110701).
@@ -26,7 +26,7 @@ author_profile: true
 1. __A. Allam__, A. Elrakaybi, A. Abdel Nabi, A. Al Dahshan, and Y. Fangary, “Pressure Distribution and Flow Visualization of an SUV,” Ain Shams Journal of Mechanical Engineering, vol. 2, Oct. 2010.
 
 # Masters Thesis
-A. Allam, “Wave Propagation Control Using Active Acoustic Metamaterials,” MSc., Ain Shams University, Cairo, 2017. doi: [10.13140/RG.2.2.10935.85924](https://doi.org/10.13140/RG.2.2.10935.85924).([Full Text])({{site.base_path/files/allam_wave_2018}})
+A. Allam, “Wave Propagation Control Using Active Acoustic Metamaterials,” MSc., Ain Shams University, Cairo, 2017. doi: [10.13140/RG.2.2.10935.85924](https://doi.org/10.13140/RG.2.2.10935.85924).([Full Text]({{site.base_path/files/allam_wave_2018}}))
 
 # Conference Proceedings
 1. __A. Allam__, K. Sabra, and A. Erturk, “Enhanced Sound Energy Harvesting by Leveraging Gradient-Index Phononic Crystals,” presented at the ASME 2020 Conference on Smart Materials, Adaptive Structures and Intelligent Systems, Online, Sep. 2020. doi: [10.1115/SMASIS2020-2411](https://doi.org/10.1115/SMASIS2020-2411).
