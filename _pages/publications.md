@@ -10,7 +10,22 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+# Publications
+1. __A. Allam__, C. Sugino, M. Harding, D. P. Bishop, A. Erturk, and M. Ruzzene, “Phased Array Ultrasonic Testing of Inconel 625 Produced by Selective Laser Melting,” ASME J Nondestructive Evaluation, vol. 4, no. 041006, May 2021, doi: 10.1115/1.4050963.
+1. A. Allam, K. Sabra, and A. Erturk, “Sound energy harvesting by leveraging a 3D-printed phononic crystal lens,” Appl. Phys. Lett., vol. 118, no. 10, p. 103504, Mar. 2021, doi: 10.1063/5.0030698.
+1. A. Allam, K. Sabra, and A. Erturk, “3D-Printed Gradient-Index Phononic Crystal Lens for Underwater Acoustic Wave Focusing,” Phys. Rev. Applied, vol. 13, no. 6, p. 064064, Jun. 2020, doi: 10.1103/PhysRevApplied.13.064064.
+1. A. Allam, K. G. Sabra, and A. Erturk, “Aspect Ratio-Dependent Dynamics of Piezoelectric Transducers in Wireless Acoustic Power Transfer,” IEEE T ULTRASON FERR, vol. 67, no. 5, pp. 984–996, May 2020, doi: 10.1109/TUFFC.2019.2962711.
+1. S. Alan, A. Allam, and A. Erturk, “Programmable mode conversion and bandgap formation for surface acoustic waves using piezoelectric metamaterials,” Appl. Phys. Lett., vol. 115, no. 9, p. 093502, Aug. 2019, doi: 10.1063/1.5110701.
+1. A. Allam, A. Elsabbagh, and W. Akl, “Experimental demonstration of one-dimensional active plate-type acoustic metamaterial with adaptive programmable density,” Journal of Applied Physics, vol. 121, no. 12, p. 125106, Mar. 2017, doi: 10.1063/1.4979020.
+1. Ahmed Allam, Adel Elsabbagh, and Wael Akl, “Modeling and design of two-dimensional membrane-type active acoustic metamaterials with tunable anisotropic density,” J. Acoust. Soc. Am., vol. 140, no. 5, pp. 3607–3618, Nov. 2016, doi: 10.1121/1.4966627.
+1. Ahmed Allam, Ahmed Elrakaybi, Ahmed Abdel Nabi, Ahmed Al Dahshan, and Yasser Fangary, “Pressure distribution and flow visualization of an SUV,” Ain Shams journal of mechanical engineering, vol. 2, Oct. 2010.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# Masters Thesis
+A. Allam, “Wave Propagation Control Using Active Acoustic Metamaterials,” MSc., Ain Shams University, Cairo, 2017. doi: 10.13140/RG.2.2.10935.85924.
+
+# Conference Proceedings
+1. A. Allam, K. Sabra, and A. Erturk, “Enhanced Sound Energy Harvesting by Leveraging Gradient-Index Phononic Crystals,” presented at the ASME 2020 Conference on Smart Materials, Adaptive Structures and Intelligent Systems, Online, Sep. 2020. doi: 10.1115/SMASIS2020-2411.
+1. A. Allam, K. Sabra, and A. Erturk, “Comparison of various models for piezoelectric receivers in wireless acoustic power transfer,” in Active and Passive Smart Structures and Integrated Systems XIII, Denver, Colorado, Mar. 2019, vol. 10967, p. 109670S. doi: 10.1117/12.2515377.
+1. A. Allam and T. Elnady, “Characterization of mufflers,” presented at the International congress on acoustics, Buenos Aires, Sep. 2016. Accessed: Sep. 23, 2016. [Available Online](http://www.ica2016.org.ar/ica2016proceedings/ica2016/ICA2016-0882.pdf)
+
+
