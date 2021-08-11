@@ -24,7 +24,7 @@ author_profile: true
 1. __A. Allam__, A. Elsabbagh, and W. Akl, “Modeling and Design of Two-Dimensional Membrane-type Active Acoustic Metamaterials with Tunable Anisotropic Density,” The Journal of the Acoustical Society of America, vol. 140, no. 5, pp. 3607–3618, Nov. 2016, doi: [10.1121/1.4966627](https://doi.org/10.1121/1.4966627). ([Preprint]({{site.base_path}}/files/papers/allam_modeling_2016.pdf))
 
 # Masters Thesis
-A. Allam, “Wave Propagation Control Using Active Acoustic Metamaterials,” MSc., Ain Shams University, Cairo, 2017. doi: [10.13140/RG.2.2.10935.85924](https://doi.org/10.13140/RG.2.2.10935.85924). ([Full Text]({{site.base_path/files/papers/allam_wave_2018}}))
+A. Allam, “Wave Propagation Control Using Active Acoustic Metamaterials,” MSc., Ain Shams University, Cairo, 2017. doi: [10.13140/RG.2.2.10935.85924](https://doi.org/10.13140/RG.2.2.10935.85924). ([Full Text]({{site.base_path}}/files/papers/allam_wave_2018}}))
 
 # Conference Proceedings
 1. __A. Allam__, K. Sabra, and A. Erturk, “Enhanced Sound Energy Harvesting by Leveraging Gradient-Index Phononic Crystals,” presented at the ASME 2020 Conference on Smart Materials, Adaptive Structures and Intelligent Systems, Online, Sep. 2020. doi: [10.1115/SMASIS2020-2411](https://doi.org/10.1115/SMASIS2020-2411). ([Slides]({{site.base_path}}/files/slides/allam_SMASIS_2020.pdf))
