@@ -1,6 +1,6 @@
 ---
-title: "Using ultrasonic waves to transfer power through metals"
-excerpt: "<br/><img src='/images/blockDiagram2.svg'>"
+title: "Developing a detachable dry coupled ultrasonic charger"
+excerpt: "<br/><img src='/images/mechanicalWand.svg'>"
 collection: research
 ---
 
