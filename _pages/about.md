@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 Hi there! My name is Ahmed Allam, and I am a postdoctoral fellow in the school of mechanical
-engineering at Georgia Tech. In my work, I try to balance theory, simulations and experiments
+engineering at Georgia Tech. In my work, I try to balance theory, simulations, and experiments
 in the fields of acoustics, vibrations, and smart materials. My research include:
 * Active and passive acoustic metamaterials and phononic crystals
-* Using ultrasonic waves to transfer power and infromation
+* Using ultrasonic waves to transfer power and information
 * Piezoelectric transducers modeling and design
-* Ultrasonic phased arrays and non destructive testing
+* Ultrasonic phased arrays and non-destructive testing (NDT)
 * Acoustic testing and automation
 
 I am interested in acoustic waves for a broad set of applications: Down from a few Hz in duct networks
