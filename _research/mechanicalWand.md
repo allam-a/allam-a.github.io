@@ -9,7 +9,11 @@ Using ultrasonic waves is the only approach to transfer power through metallic w
 To design a detachable charger, we investigated techniques to transfer ultrasonic waves efficiently from the charger to the metal. The main challenge was to find an alternative to using liquids to fill the microscale gaps between the transducer and the metals since these gaps prevent ultrasonic waves from passing from the transducer to the metal.
 <br/><br/><img src='/images/couplingTypes.svg'><br/><br/>
 We developed a magnetic setup to provide good contact between the charger and the metal wall.
-<br/><br/><video width="320" controls>
-  <source src="/videos/wandDemo.mp4" type="video/mp4">
-Your browser does not support this video.</video> 
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="/images/WandSetup.svg">
+    <source src="/videos/wandDemo.mp4" type="video/mp4">
+    <!-- <source src="path/to/video.ogg" type="video/ogg"> 
+    <source src="path/to/video.webm" type="video/webm"> -->
+  </video>
+</figure>
 
