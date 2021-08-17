@@ -1,6 +1,6 @@
 ---
 title: "Developing a detachable dry coupled ultrasonic charger"
-excerpt: "<br/><img src='/images/WandSetup.svg' style='width: 25vw'>"
+excerpt: "<br/><img src='/images/WandSetup.svg' style='width: 35vw'>"
 collection: research
 ---
 
@@ -10,7 +10,7 @@ To design a detachable charger, we investigated techniques to transfer ultrasoni
 <br/><br/><img src='/images/couplingTypes.svg'><br/><br/>
 We developed a magnetic setup to provide good contact between the charger and the metal wall.
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="/videos/wandDemo.png">
+  <video controls="true" allowfullscreen="true" poster="/videos/wandDemo.png" width="50%">
     <source src="/videos/wandDemo.mp4" type="video/mp4">
     <source src="/videos/wandDemo.ogg" type="video/ogg"> 
     <!--<source src="path/to/video.webm" type="video/webm"> -->
