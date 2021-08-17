@@ -10,7 +10,7 @@ To design a detachable charger, we investigated techniques to transfer ultrasoni
 <br/><br/><img src='/images/couplingTypes.svg'><br/><br/>
 We developed a magnetic setup to provide good contact between the charger and the metal wall.
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="/videos/wandDemo.png" width="50%">
+  <video controls="true" allowfullscreen="true" poster="/videos/wandDemo.png" width="70%">
     <source src="/videos/wandDemo.mp4" type="video/mp4">
     <source src="/videos/wandDemo.ogg" type="video/ogg"> 
     <!--<source src="path/to/video.webm" type="video/webm"> -->
