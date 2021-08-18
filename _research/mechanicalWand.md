@@ -13,7 +13,7 @@ We developed a magnetic setup to provide good contact between the charger and th
   <video controls="true" allowfullscreen="true" poster="/videos/wandDemo.png" width="100%">
     <source src="/videos/wandDemo.mp4" type="video/mp4">
     <source src="/videos/wandDemo.ogg" type="video/ogg"> 
-    <!--<source src="path/to/video.webm" type="video/webm"> -->
+    <source src="/videos/wandDemo.webm" type="video/webm">
   </video>
 </figure>
 
