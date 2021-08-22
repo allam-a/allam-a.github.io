@@ -1,6 +1,6 @@
 ---
 title: "Developing a detachable dry coupled ultrasonic charger"
-excerpt: "<br/><a href="{{site.base_path}}{{page.url}}"><img src='/images/WandSetup.svg' style='width: 35vw'></a>"
+excerpt: "<img src='/images/WandSetup.svg' style='width: 35vw'>"
 collection: research
 ---
 
