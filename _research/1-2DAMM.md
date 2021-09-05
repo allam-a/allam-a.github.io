@@ -1,6 +1,6 @@
 ---
-title: "Phononic crystal lenses for underwater focusing"
-excerpt: "<br/><img src='/videos/WaterLens.gif'>"
+title: "2D active acoustic metamaterials for manipulating sound waves in ducts"
+excerpt: "<br/><img src='/images/2DAMMCells.svg'>"
 collection: research
 ---
 
