@@ -1,5 +1,5 @@
 ---
-title: "Using ultrasonic waves to transfer power through metals"
+title: "Designing ultrasonic transducers for concurrent power and data transfer"
 excerpt: "<br/><img src='/images/blockDiagram2.svg'>"
 collection: research
 ---
