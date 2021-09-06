@@ -1,5 +1,5 @@
 ---
-title: "Using ultrasonic waves to transfer power through metals"
+title: "Ultrasonic inspection of 3D-printed metallic components"
 excerpt: "<br/><img src='/images/blockDiagram2.svg'>"
 collection: research
 ---

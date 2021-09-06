@@ -1,6 +1,6 @@
 ---
 title: "Phononic crystal lenses for underwater focusing"
-excerpt: "<br/><img src='/videos/WaterLens.gif'>"
+excerpt: "<br/><img src='/videos/WaterLens.gif' style='width: 75%'>"
 collection: research
 ---
 
