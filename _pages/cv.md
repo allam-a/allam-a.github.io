@@ -20,21 +20,21 @@ Education
 
 Work experience
 ======
-* Smart Structures and Dynamical Systems Lab (<a href="http://www.ssdsl.gatech.edu/">SSDSL</a>), Georgia Tech. Atlanta, GA			(Jan. 2018 – Present)
-	* **Post-doctoral fellow (Sept 2021 – Present), Graduate Research Assistant (Jan 2018 – Aug 2021)**
+* **Smart Structures and Dynamical Systems Lab (<a href="http://www.ssdsl.gatech.edu/">SSDSL</a>), Georgia Tech. Atlanta, GA**			(Jan. 2018 – Present)
+	* **Post-doctoral fellow (Sept 2021 – Present), Graduate Research Assistant** (Jan 2018 – Aug 2021)
 		* Contributed to 3 funded research projects under the supervision of Prof. Alper Erturk and Prof. Karim Sabra.
 		* Collaborated with 8 lab peers, 3 visiting scholars, and external collaborators from the industry, national labs, and other universities.
 		
-		**Lab Management:**
+		*Lab Management:*
 		* Recommended and handled the requisition of key lab equipment including an ultrasonic phased array system, 3D printers, hydrophones, data acquisition systems, and other testing equipment.
 		
-		**Ultrasonic Power and Data Transfer Through Metallic Enclosures:**
+		*Ultrasonic Power and Data Transfer Through Metallic Enclosures:*
 		* Collaborated with Sandia National Labs to develop a portable ultrasonic power transfer system prototype for sealed metallic enclosures. (COMSOL/MATLAB/SolidWorks/Keysight ADS)
 	
-		**Ultrasonic Imaging of 3D-printed Metallic Components:**
+		*Ultrasonic Imaging of 3D-printed Metallic Components:*
 		* Collaborated with engineers from Tronos Inc, and the University of Colorado to develop new techniques for non-destructive testing of 3D-printed aerospace components using phased arrays and scanning laser vibrometry. (Verasonics/Polytech)
 	
-		**Acoustic Power Transfer and Harvesting:**
+		*Acoustic Power Transfer and Harvesting:*
 		* Constructed and programmed a 3-axis stage for a scanning hydrophone setup. (SolidWorks/MATLAB/LabVIEW)
 		* Designed, 3D-printed, and experimentally tested the first 3D lens for focusing aqueous ultrasonic waves using graded phononic crystals/metamaterials concepts. (COMSOL/MATLAB/AUTOCAD) 
 		* Created and tested an airborne sound energy harvesting system leveraging phononic crystals for enhanced electric power output. (COMSOL/MATLAB/AUTOCAD)
@@ -42,22 +42,22 @@ Work experience
 		
 		* Teamed with a visiting scholar to develop a new class of active piezoelectric metamaterials for manipulating surface acoustic waves (COMSOL/MATLAB).
 
-* Elnady Engineering & Agencies (<a href="https://elnadycompany.com/">NC</a>): Acoustics & Software Development. Cairo, Egypt		(Jan. 2016 – Jan. 2018)
+* **Elnady Engineering & Agencies (<a href="https://elnadycompany.com/">NC</a>): Acoustics & Software Development. Cairo, Egypt**		(Jan. 2016 – Jan. 2018)
 	* **Acoustic Engineer** 
 		* Worked with a multidisciplinary team of 5 engineers to develop software and hardware solutions for simulating sound propagation in ducts, muffler design, and experimental testing.
 		
-		**<a href="https://sidlab.se/">SIDLAB</a> Data Acquisition Module:**
+		*<a href="https://sidlab.se/">SIDLAB</a> Data Acquisition Module:*
 		* Redesigned a software module for exciting loudspeakers & collecting microphone signals using the 4-microphone technique. The new module increased the acquisition speed 5 times without sacrificing accuracy. (LabVIEW/ C/ Labwindows CVI)
 		* Integrated the module in SIDLAB commercial software for analyzing sound in ducts and acoustic testing automation. 
 		
-		**SIDLAB Test Rig:**
+		*SIDLAB Test Rig:*
 		* Collaborated with a group of multidisciplinary engineers to design, fabricate, and commission 3 setups for acoustic testing of mufflers to customers in the USA, China, Germany, and the UAE. 
 		
-		**SIDLAB Sound Transmission Loss Module:**
+		*SIDLAB Sound Transmission Loss Module:*
 		* Created a data acquisition module for testing sound transmission losses in building materials. (JAVA/C/LabVIEW/MATLAB)
 		* Delivered the module to customers and provided comprehensive training on using the software.
 
-* Ain Shams University (<a href="https://eng.asu.edu.eg/">ASU</a>). Cairo, Egypt							(Aug. 2012 – Jan. 2018)
+* **Ain Shams University (<a href="https://eng.asu.edu.eg/">ASU</a>). Cairo, Egypt**							(Aug. 2012 – Jan. 2018)
 	* **Teaching Assistant, Mechatronics Department (March. 2014 – Jan. 2018)**
 		* Conducted labs, recitations, and practical tutorials; held weekly office hours; graded assignments, projects, and exams for undergraduate classes (≈ 50 students per class) including: Modeling of Dynamic Systems (3 sem.), Digital Image Processing, Design of Measurement Systems (2 sem.), Automatic Control (2 sem.), Mechatronic Systems (3 sem.), MEMS.
 		* Streamlined the assignment of teaching workload among 12 TAs in the mechatronics department.
@@ -70,13 +70,13 @@ Work experience
 	* **Research Assistant, Group for Advanced Research in Dynamic Systems <a href="https://cvs3.eng.asu.edu.eg/">ASU-GARDS</a> (Sept. 2012 – Jan. 2018)**
 		* Worked on several research projects funded by the EU in the fields of acoustics, educational software, vocational education, and virtual reality.
 		
-		**Active Acoustic Metamaterials:**
+		*Active Acoustic Metamaterials:*
 		* Designed, modeled, and experimentally tested a new class of active acoustic metamaterials based on the adaptive feedback control of a piezoelectric diaphragm. The material is the 1st to achieve a wide range of actively programmed density. (ANSYS APDL/MATLAB/LabVIEW)
 		
-		**Electronic Laboratories for Engineering Education (TEMPUS-eLab):**
+		*Electronic Laboratories for Engineering Education (TEMPUS-eLab):*
 		* Programmed 3 virtual online laboratory experiments that were integrated into Mechanical Design/Acoustics /Electrochemistry undergraduate courses helping potentially thousands of students. (JAVA)
 	
-		**Academic-Industry Partnership (TEMPUS-AIP):**
+		*Academic-Industry Partnership (TEMPUS-AIP):*
 		* Developed teaching material for a new diploma for the development and training of vocational teachers in Egypt.
   
 Skills
