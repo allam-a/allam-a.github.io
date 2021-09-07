@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Ahmed Allam"
 title_separator          : "-"
 name                     : &name "Ahmed Allam"
-description              : &description "personal description"
-url                      : https://allam-a.github.io # the base hostname 
+description              : &description "Personal website of Ahmed Allam a postdoctoral fellow at GeorgiaTech."
+url                      : https://ahmed-allam.com # the base hostname 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "allam-a/allam-a.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
