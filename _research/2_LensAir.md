@@ -1,6 +1,6 @@
 ---
 title: "Enhancing sound energy harvesting using phononic crystals"
-excerpt: "<br/><img src='/images/LensAir_cover.svg'>"
+excerpt: "<br/><img src='/images/LensAir_cover.svg' style='width: 80%'>"
 collection: research
 ---
 
