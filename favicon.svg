@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="156.74243mm"
-   height="127.92419mm"
-   viewBox="0 0 156.74243 127.92419"
+   width="122mm"
+   height="122mm"
+   viewBox="0 0 122 122.00001"
    version="1.1"
    id="svg5"
-   inkscape:export-filename="D:\Website\images\favicon.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:export-filename="D:\Website\images\favicon-192x192.png"
+   inkscape:export-xdpi="39.97377"
+   inkscape:export-ydpi="39.97377"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="favicon.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -31,8 +31,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.46324355"
-     inkscape:cx="300.05815"
-     inkscape:cy="102.53786"
+     inkscape:cx="196.44094"
+     inkscape:cy="309.77226"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -45,18 +45,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-25.57878,-29.93569)">
+     transform="translate(-33.842818,-29.960112)">
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 37.696153,150.78461 74.821152,39.409616 101.66538,157.63846"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.87209;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 38.984802,145.25378 70.455795,30.13718 93.211743,152.33788"
        id="path857" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 25.701923,93.66923 182.19807,74.249999"
+       style="fill:none;stroke:#000000;stroke-width:1.76697;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 33.970822,93.675856 156.04006,74.243373"
        id="path859" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 125.08269,151.35577 130.79423,30.271153 172.48846,147.35769"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.97397;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 107.10959,151.35577 112.6734,30.271153 153.28927,147.35769"
        id="path861" />
   </g>
 </svg>
