@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="212.32036mm"
-   height="88.775826mm"
-   viewBox="0 0 212.32036 88.775826"
+   width="258.40558mm"
+   height="69.246468mm"
+   viewBox="0 0 258.40558 69.246468"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -29,26 +29,17 @@
      fit-margin-left="2"
      fit-margin-right="2"
      fit-margin-bottom="2"
-     inkscape:zoom="0.46324355"
-     inkscape:cx="399.35796"
-     inkscape:cy="564.49788"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.65512531"
+     inkscape:cx="506.77328"
+     inkscape:cy="151.11613"
+     inkscape:window-width="1284"
+     inkscape:window-height="1040"
+     inkscape:window-x="-1"
+     inkscape:window-y="165"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
-    <clipPath
-       id="clip0">
-      <rect
-         x="30"
-         y="18"
-         width="1259"
-         height="532"
-         id="rect824" />
-    </clipPath>
     <clipPath
        id="clip1">
       <rect
@@ -282,68 +273,220 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0.4355642,1.2657967)">
+     transform="translate(125.7542,-6.0930731)">
     <g
-       clip-path="url(#clip0)"
-       transform="matrix(0.16680971,0,0,0.16680971,-3.4398555,-2.2683715)"
-       id="g978">
+       clip-path="url(#clip1)"
+       transform="matrix(1.6095535e-5,0,0,1.6095535e-5,1.5644357,8.0930731)"
+       id="g898"
+       inkscape:export-filename="D:\Website\images\g898.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <g
-         clip-path="url(#clip1)"
-         transform="matrix(1.04987e-4,0,0,1.04987e-4,30,66)"
-         id="g898">
-        <g
-           clip-path="url(#clip3)"
-           transform="matrix(1,0,0,1.00097,-0.03125,0)"
-           id="g896">
-          <use
-             width="100%"
-             height="100%"
-             xlink:href="#img2"
-             transform="scale(5221.39)"
-             id="use894"
-             x="0"
-             y="0" />
-        </g>
+         clip-path="url(#clip3)"
+         transform="matrix(1,0,0,1.00097,-0.03125,0)"
+         id="g896">
+        <use
+           width="100%"
+           height="100%"
+           xlink:href="#img2"
+           transform="scale(5221.39)"
+           id="use894"
+           x="0"
+           y="0" />
       </g>
+    </g>
+    <g
+       clip-path="url(#clip4)"
+       transform="matrix(1.6095535e-5,0,0,1.6095535e-5,66.107973,18.364687)"
+       id="g904">
       <g
-         clip-path="url(#clip4)"
-         transform="matrix(1.04987e-4,0,0,1.04987e-4,469,110)"
-         id="g904">
-        <g
-           clip-path="url(#clip6)"
-           transform="matrix(1,0,0,1.00079,0,-0.0625)"
-           id="g902">
-          <use
-             width="100%"
-             height="100%"
-             xlink:href="#img5"
-             transform="scale(5221.39)"
-             id="use900"
-             x="0"
-             y="0" />
-        </g>
+         clip-path="url(#clip6)"
+         transform="matrix(1,0,0,1.00079,0,-0.0625)"
+         id="g902">
+        <use
+           width="100%"
+           height="100%"
+           xlink:href="#img5"
+           transform="scale(5221.39)"
+           id="use900"
+           x="0"
+           y="0" />
       </g>
+    </g>
+    <g
+       clip-path="url(#clip18)"
+       transform="matrix(1.6095535e-5,0,0,1.6095535e-5,-121.10757,34.883472)"
+       id="g940">
       <g
-         clip-path="url(#clip7)"
-         transform="matrix(1.04987e-4,0,0,1.04987e-4,898,18)"
-         id="g910">
-        <g
-           clip-path="url(#clip9)"
-           transform="matrix(1.00259,0,0,1,0,-0.015625)"
-           id="g908">
-          <use
-             width="100%"
-             height="100%"
-             xlink:href="#img8"
-             transform="scale(8760.45)"
-             id="use906"
-             x="0"
-             y="0" />
-        </g>
+         clip-path="url(#clip20)"
+         transform="matrix(1,0,0,1.00182,-1,0)"
+         id="g938">
+        <use
+           width="100%"
+           height="100%"
+           xlink:href="#img19"
+           transform="scale(9081.98)"
+           id="use936"
+           x="0"
+           y="0" />
       </g>
+    </g>
+    <g
+       clip-path="url(#clip21)"
+       transform="matrix(1.6095535e-5,0,0,1.6095535e-5,-76.187802,35.496711)"
+       id="g946">
+      <g
+         clip-path="url(#clip23)"
+         transform="scale(1,1.01595)"
+         id="g944">
+        <use
+           width="100%"
+           height="100%"
+           xlink:href="#img22"
+           transform="scale(2172.37)"
+           id="use942"
+           x="0"
+           y="0" />
+      </g>
+    </g>
+    <text
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="2.45296px"
+       id="text948"
+       x="-77.581383"
+       y="47.761494"
+       style="stroke-width:0.15331">Receiver</text>
+    <g
+       clip-path="url(#clip24)"
+       transform="matrix(1.6095535e-5,0,0,1.6095535e-5,-105.31666,24.765025)"
+       id="g954">
+      <g
+         clip-path="url(#clip26)"
+         transform="scale(1,1.04839)"
+         id="g952">
+        <use
+           width="100%"
+           height="100%"
+           xlink:href="#img25"
+           transform="scale(6660.34)"
+           id="use950"
+           x="0"
+           y="0" />
+      </g>
+    </g>
+    <text
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="2.45296px"
+       id="text958"
+       x="-93.448952"
+       y="56.806774"
+       style="stroke-width:0.15331">Lens<tspan
+   font-size="2.45296px"
+   x="-119.13832"
+   y="48.221424"
+   id="tspan956"
+   style="stroke-width:0.0235039">Speaker</tspan></text>
+    <path
+       d="m -75.037982,35.586704 v -7.372208 h 0.34649"
+       stroke="#000000"
+       stroke-width="0.102207"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path960" />
+    <path
+       d="m -74.578052,37.141878 v -4.205901 h 7.31135 v -4.874791 h -0.61937"
+       stroke="#000000"
+       stroke-width="0.102207"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path962" />
+    <g
+       clip-path="url(#clip27)"
+       transform="matrix(1.6095535e-5,0,0,1.6095535e-5,-74.808012,27.524602)"
+       id="g968">
+      <g
+         clip-path="url(#clip29)"
+         transform="matrix(1,0,0,1.04802,-1,-0.25)"
+         id="g966">
+        <use
+           width="100%"
+           height="100%"
+           xlink:href="#img28"
+           transform="scale(4811.6)"
+           id="use964"
+           x="0"
+           y="0" />
+      </g>
+    </g>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="2.45296px"
+       id="text972"
+       x="-72.123558"
+       y="26.604742"
+       style="stroke-width:0.15331">𝑅<tspan
+   font-size="1.83972px"
+   x="-70.606819"
+   y="27.064672"
+   id="tspan970"
+   style="stroke-width:0.0235039">𝑙</tspan></text>
+    <path
+       d="m -72.381122,36.902102 v 6.204907 h -0.10118 v -6.204907 z m -0.66383,0.204362 0.61324,-1.226479 0.61324,1.226479 z m 1.22648,5.796183 -0.61324,1.226478 -0.61324,-1.226478 z"
+       id="path974"
+       style="stroke-width:0.15331" />
+    <text
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="2.45296px"
+       id="text976"
+       x="-71.737221"
+       y="40.555935"
+       style="stroke-width:0.15331">13.5 mm</text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="5.8471293"
+       y="72.425903"
+       id="text2653"><tspan
+         sodipodi:role="line"
+         id="tspan2651"
+         style="stroke-width:0.264583"
+         x="5.8471293"
+         y="72.425903">Power enhancement vs resistance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="74.580177"
+       y="72.425903"
+       id="text2653-2"><tspan
+         sodipodi:role="line"
+         id="tspan2651-6"
+         style="stroke-width:0.264583"
+         x="74.580177"
+         y="72.425903">Power enhancement in time</tspan></text>
+    <g
+       id="g15268"
+       sodipodi:insensitive="true"
+       inkscape:export-filename="D:\Website\images\g15268.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <use
+         width="100%"
+         height="100%"
+         xlink:href="#img8"
+         transform="matrix(0.14136933,0,0,0.14100413,-61.641912,20.119807)"
+         id="use906"
+         x="0"
+         y="0" />
       <g
          clip-path="url(#clip11)"
-         id="g914">
+         id="g914"
+         transform="matrix(0.15330979,0,0,0.15330979,-199.3141,17.360231)">
         <use
            width="100%"
            height="100%"
@@ -357,12 +500,15 @@
          fill="#ffffff"
          font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
          font-weight="400"
-         font-size="24px"
-         transform="translate(910.06,240)"
-         id="text916">Speaker</text>
+         font-size="3.67944px"
+         id="text916"
+         x="-59.792995"
+         y="54.154583"
+         style="stroke-width:0.15331">Speaker</text>
       <g
          clip-path="url(#clip13)"
-         id="g920">
+         id="g920"
+         transform="matrix(0.15330979,0,0,0.15330979,-199.3141,17.360231)">
         <use
            width="100%"
            height="100%"
@@ -376,12 +522,15 @@
          fill="#ffffff"
          font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
          font-weight="400"
-         font-size="24px"
-         transform="translate(1043.97,243)"
-         id="text922">Lens</text>
+         font-size="3.67944px"
+         id="text922"
+         x="-39.263283"
+         y="54.61451"
+         style="stroke-width:0.15331">Lens</text>
       <g
          clip-path="url(#clip15)"
-         id="g926">
+         id="g926"
+         transform="matrix(0.15330979,0,0,0.15330979,-199.3141,17.360231)">
         <use
            width="100%"
            height="100%"
@@ -395,12 +544,15 @@
          fill="#ffffff"
          font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
          font-weight="400"
-         font-size="24px"
-         transform="translate(1158.16,163)"
-         id="text928">Unimorph</text>
+         font-size="3.67944px"
+         id="text928"
+         x="-21.756826"
+         y="42.349728"
+         style="stroke-width:0.15331">Unimorph</text>
       <g
          clip-path="url(#clip17)"
-         id="g932">
+         id="g932"
+         transform="matrix(0.15330979,0,0,0.15330979,-199.3141,17.360231)">
         <use
            width="100%"
            height="100%"
@@ -414,132 +566,33 @@
          fill="#ffffff"
          font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
          font-weight="400"
-         font-size="24px"
-         transform="translate(1158.16,192)"
-         id="text934">receiver</text>
-      <g
-         clip-path="url(#clip18)"
-         transform="matrix(1.04987e-4,0,0,1.04987e-4,900,383)"
-         id="g940">
-        <g
-           clip-path="url(#clip20)"
-           transform="matrix(1,0,0,1.00182,-1,0)"
-           id="g938">
-          <use
-             width="100%"
-             height="100%"
-             xlink:href="#img19"
-             transform="scale(9081.98)"
-             id="use936"
-             x="0"
-             y="0" />
-        </g>
-      </g>
-      <g
-         clip-path="url(#clip21)"
-         transform="matrix(1.04987e-4,0,0,1.04987e-4,1193,387)"
-         id="g946">
-        <g
-           clip-path="url(#clip23)"
-           transform="scale(1,1.01595)"
-           id="g944">
-          <use
-             width="100%"
-             height="100%"
-             xlink:href="#img22"
-             transform="scale(2172.37)"
-             id="use942"
-             x="0"
-             y="0" />
-        </g>
-      </g>
-      <text
-         font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="16px"
-         transform="translate(1183.91,467)"
-         id="text948">Receiver</text>
-      <g
-         clip-path="url(#clip24)"
-         transform="matrix(1.04987e-4,0,0,1.04987e-4,1003,317)"
-         id="g954">
-        <g
-           clip-path="url(#clip26)"
-           transform="scale(1,1.04839)"
-           id="g952">
-          <use
-             width="100%"
-             height="100%"
-             xlink:href="#img25"
-             transform="scale(6660.34)"
-             id="use950"
-             x="0"
-             y="0" />
-        </g>
-      </g>
-      <text
-         font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="16px"
-         transform="translate(1080.41,526)"
-         id="text958">Lens<tspan
-   font-size="16px"
-   x="-167.565"
-   y="-56"
-   id="tspan956">Speaker</tspan></text>
-      <path
-         d="M 1200.5,387.587 V 339.5 h 2.26"
-         stroke="#000000"
-         stroke-width="0.666667"
-         stroke-miterlimit="8"
-         fill="none"
-         fill-rule="evenodd"
-         id="path960" />
-      <path
-         d="m 1203.5,397.731 v -27.434 h 47.69 V 338.5 h -4.04"
-         stroke="#000000"
-         stroke-width="0.666667"
-         stroke-miterlimit="8"
-         fill="none"
-         fill-rule="evenodd"
-         id="path962" />
-      <g
-         clip-path="url(#clip27)"
-         transform="matrix(1.04987e-4,0,0,1.04987e-4,1202,335)"
-         id="g968">
-        <g
-           clip-path="url(#clip29)"
-           transform="matrix(1,0,0,1.04802,-1,-0.25)"
-           id="g966">
-          <use
-             width="100%"
-             height="100%"
-             xlink:href="#img28"
-             transform="scale(4811.6)"
-             id="use964"
-             x="0"
-             y="0" />
-        </g>
-      </g>
-      <text
-         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="16px"
-         transform="translate(1219.51,329)"
-         id="text972">𝑅<tspan
-   font-size="12px"
-   x="9.8933096"
-   y="3"
-   id="tspan970">𝑙</tspan></text>
-      <path
-         d="m 1217.83,396.167 v 40.473 h -0.66 v -40.473 z m -4.33,1.333 4,-8 4,8 z m 8,37.807 -4,8 -4,-8 z"
-         id="path974" />
-      <text
-         font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
-         font-weight="400"
-         font-size="16px"
-         transform="translate(1222.03,420)"
-         id="text976">13.5 mm</text>
+         font-size="3.67944px"
+         id="text934"
+         x="-21.756826"
+         y="46.795712"
+         style="stroke-width:0.15331">receiver</text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="-48.478004"
+       y="72.425903"
+       id="text2653-28"><tspan
+         sodipodi:role="line"
+         id="tspan2651-0"
+         style="stroke-width:0.264583"
+         x="-48.478004"
+         y="72.425903">Experimental setup</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="-124.01878"
+       y="72.425903"
+       id="text10769"><tspan
+         sodipodi:role="line"
+         id="tspan10767"
+         style="stroke-width:0.264583"
+         x="-124.01878"
+         y="72.425903">Sound energy harvesting schematic</tspan></text>
   </g>
 </svg>

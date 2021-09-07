@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1147.7979"
-   height="483.14249"
-   viewBox="0 0 303.68818 127.83145"
+   width="1046.5184"
+   height="473.83469"
+   viewBox="0 0 276.89133 125.36876"
    version="1.1"
    id="svg8"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -440,9 +440,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35000001"
-     inkscape:cx="662.85713"
-     inkscape:cy="104.28571"
+     inkscape:zoom="0.49497476"
+     inkscape:cx="727.30981"
+     inkscape:cy="51.517778"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -461,8 +461,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid4685"
-       originx="-7.1338932"
-       originy="-171.87386" />
+       originx="-7.133893"
+       originy="-171.87385" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -479,32 +479,32 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-7.1338934,-40.248867)">
+     transform="translate(-7.1338933,-40.248862)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Ari;-inkscape-font-specification:Ari;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="91.673447"
-       y="44.430298"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.43081px;line-height:1.25;font-family:Ari;-inkscape-font-specification:Ari;fill:none;stroke:#000000;stroke-width:0.911453;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="84.234619"
+       y="44.106903"
        id="text4530"><tspan
          sodipodi:role="line"
          id="tspan4528"
-         x="91.673447"
-         y="44.430298"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ari;-inkscape-font-specification:Ari;stroke-width:1" /></text>
+         x="84.234619"
+         y="44.106903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ari;-inkscape-font-specification:Ari;stroke-width:0.911453" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Ari;-inkscape-font-specification:Ari;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="41.010418"
-       y="84.010414"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.85848px;line-height:1.25;font-family:Ari;-inkscape-font-specification:Ari;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.241155"
+       x="38.057625"
+       y="80.182335"
        id="text9642"><tspan
          sodipodi:role="line"
          id="tspan9640"
-         x="41.010418"
-         y="84.010414"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ari;-inkscape-font-specification:Ari;stroke-width:0.264583" /></text>
+         x="38.057625"
+         y="80.182335"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ari;-inkscape-font-specification:Ari;stroke-width:0.241155" /></text>
     <g
        id="g2968"
-       transform="matrix(0.78598072,0,0,0.78598072,1.6400426,9.1440953)">
+       transform="matrix(0.71638485,0,0,0.71638485,2.1733599,11.945171)">
       <rect
          id="rect10"
          width="21.166666"
@@ -840,7 +840,7 @@
     </g>
     <g
        id="g1338"
-       transform="matrix(0.46025939,0,0,0.46025939,27.389447,73.016842)">
+       transform="matrix(0.41950502,0,0,0.41950502,25.642744,74.395543)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
          d="m 163.60614,177.59604 1.69504,2.74166 h 107.15625 v -19.84375"
@@ -1055,7 +1055,7 @@
        height="100%"
        xlink:href="#img4"
        fill="none"
-       transform="matrix(0.16795866,0,0,0.16795866,245.2929,118.80115)"
+       transform="matrix(0.1530865,0,0,0.1530865,224.2516,116.12583)"
        id="use1360"
        x="0"
        y="0" />
@@ -1064,13 +1064,13 @@
        height="100%"
        xlink:href="#img5"
        fill="none"
-       transform="matrix(0.17857143,0,0,0.17857143,180.2929,118.80115)"
+       transform="matrix(0.16275955,0,0,0.16275955,157.06958,116.12583)"
        id="use1362"
        x="0"
        y="0" />
     <g
        id="g1791"
-       transform="matrix(0.01073918,0,0,0.01073918,165.57584,21.427939)">
+       transform="matrix(0.00978826,0,0,0.00978826,151.59321,23.141323)">
       <g
          fill="none"
          stroke="#000000"
@@ -2114,7 +2114,7 @@
          stroke-width="1"
          stroke-linecap="butt"
          stroke-linejoin="bevel"
-         transform="matrix(8.26667,0,0,8.26667,9486.67,5478.67)"
+         transform="matrix(8.26667,0,0,8.26667,9486.67,4559.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2140,7 +2140,7 @@
          stroke-width="3"
          stroke-linecap="butt"
          stroke-linejoin="bevel"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2164,7 +2164,7 @@
          stroke-width="1"
          stroke-linecap="butt"
          stroke-linejoin="bevel"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2315,7 +2315,7 @@
          fill="#0000cd"
          fill-opacity="1"
          stroke="none"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2331,7 +2331,7 @@
          fill="#0000cd"
          fill-opacity="1"
          stroke="none"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2347,7 +2347,7 @@
          fill="#0000cd"
          fill-opacity="1"
          stroke="none"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2367,7 +2367,7 @@
          stroke-width="1"
          stroke-linecap="butt"
          stroke-linejoin="bevel"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2388,7 +2388,7 @@
          fill="#0000cd"
          fill-opacity="1"
          stroke="none"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2404,7 +2404,7 @@
          fill="#0000cd"
          fill-opacity="1"
          stroke="none"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2420,7 +2420,7 @@
          fill="#0000cd"
          fill-opacity="1"
          stroke="none"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2436,7 +2436,7 @@
          fill="#0000cd"
          fill-opacity="1"
          stroke="none"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2452,7 +2452,7 @@
          fill="#0000cd"
          fill-opacity="1"
          stroke="none"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2468,7 +2468,7 @@
          fill="#0000cd"
          fill-opacity="1"
          stroke="none"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2484,7 +2484,7 @@
          fill="#0000cd"
          fill-opacity="1"
          stroke="none"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2500,7 +2500,7 @@
          fill="#0000cd"
          fill-opacity="1"
          stroke="none"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -2516,7 +2516,7 @@
          fill="#0000cd"
          fill-opacity="1"
          stroke="none"
-         transform="matrix(6.66667,0,0,-6.66667,8666.67,5166.67)"
+         transform="matrix(6.66667,0,0,-6.66667,8666.67,4247.6262)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -4548,7 +4548,7 @@
          stroke-width="1"
          stroke-linecap="butt"
          stroke-linejoin="bevel"
-         transform="matrix(7.2,0,0,7.2,6742.9139,6197.1814)"
+         transform="matrix(7.2,0,0,7.2,6364.4841,5386.2604)"
          font-family="'Arial For CAE'"
          font-size="25px"
          font-weight="400"
@@ -4570,8 +4570,9 @@
       </g>
       <path
          style="fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-5)"
-         d="M 7496.6036,6238.8677 6263.7735,6811.698"
-         id="path8160" />
+         d="M 7100.6795,5515.2823 6263.7735,6811.698"
+         id="path8160"
+         sodipodi:nodetypes="cc" />
       <g
          fill="none"
          stroke="#000000"
@@ -4649,7 +4650,7 @@
     </g>
     <g
        id="g21435"
-       transform="matrix(0.84383394,0,0,0.84383394,103.84238,-86.451167)">
+       transform="matrix(0.76911537,0,0,0.76911537,95.326035,-75.185463)">
       <g
          clip-path="url(#clip1-5)"
          transform="matrix(1.38431e-5,0,0,1.38431e-5,183.20684,213.07516)"
@@ -4774,5 +4775,71 @@
            y="209.56038"
            id="tspan19330">amplifier</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="47.720871"
+       y="164.17482"
+       id="text5863"><tspan
+         sodipodi:role="line"
+         id="tspan5861"
+         style="stroke-width:0.264583"
+         x="47.720871"
+         y="164.17482">Setup for measuring the ultrasonic efficiency</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="157.52751"
+       y="164.17482"
+       id="text8587"><tspan
+         sodipodi:role="line"
+         id="tspan8585"
+         style="stroke-width:0.264583"
+         x="157.52751"
+         y="164.17482">Input vs output voltage waveform</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="225.96478"
+       y="164.17482"
+       id="text9647"><tspan
+         sodipodi:role="line"
+         id="tspan9645"
+         style="stroke-width:0.264583"
+         x="225.96478"
+         y="164.17482">DC-DC efficiecny of the system</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="225.83908"
+       y="111.36334"
+       id="text10831"><tspan
+         sodipodi:role="line"
+         id="tspan10829"
+         style="stroke-width:0.264583"
+         x="225.83908"
+         y="111.36334">Class E power amplifier board</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="148.43643"
+       y="111.31498"
+       id="text11803"><tspan
+         sodipodi:role="line"
+         id="tspan11801"
+         style="stroke-width:0.264583"
+         x="148.43643"
+         y="111.31498">Simulation of the DC-DC power transfer </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:none;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="43.797585"
+       y="106.01672"
+       id="text17939"><tspan
+         sodipodi:role="line"
+         id="tspan17937"
+         style="stroke-width:0.264583"
+         x="43.797585"
+         y="106.01672">Ultrasonic power transfer through metals</tspan></text>
   </g>
 </svg>
