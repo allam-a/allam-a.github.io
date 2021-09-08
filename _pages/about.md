@@ -24,5 +24,3 @@ and mufflers up to 10s of MHz for ultrasonic imaging and ultrasonic power transf
 I am a mechatronics engineer by training, so I have a good grasp of programming, electronics, and mechanical design. 
 I plan to use this knowledge to communicate with scientists and engineers from different backgrounds, 
 to coordinate interdisciplinary work on different levels.
-
-The website is still under construction, so please don't mind the broken links from time to time.
