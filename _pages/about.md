@@ -21,7 +21,7 @@ in the fields of acoustics, vibrations, and smart materials. My research include
 I am interested in acoustic waves for a broad set of applications: Down from a few Hz in duct networks
 and mufflers up to 10s of MHz for ultrasonic imaging and ultrasonic power transfer. 
 
-I come from a mechatronics background, so I have a good grasp of programming, electronics, and mechanical design. 
+I am a mechatronics engineer by training, so I have a good grasp of programming, electronics, and mechanical design. 
 I plan to use this knowledge to communicate with scientists and engineers from different backgrounds, 
 to coordinate interdisciplinary work on different levels.
 
