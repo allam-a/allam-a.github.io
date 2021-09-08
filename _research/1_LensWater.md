@@ -1,10 +1,10 @@
 ---
 title: "Gradient-index phononic crystal lenses for underwater acoustic focusing"
-excerpt: "<br/><img src='/images/LensWater.svg' style='width: 100%'>"
+excerpt: "<br/><img src='/images/LensWater.svg' style='width: 80%'>"
 collection: research
 ---
 
-<br/><img src='/images/LensWater.svg' style='width: 80%'>
+<br/><img src='/images/LensWater.svg' style='width: 100%'>
 
 In this project, we developed a 3D-printed gradient-index phononic crystal based on air inclusions in a polymer 
 to manipulate underwater acoustic waves. The proposed approach enables a simple configuration
@@ -21,6 +21,8 @@ pulse when the lens is present versus without it. The experimental focusing is a
 
 The phononic crystal concept and the resulting lens design can find applications spanning from power enhancement in acoustic
 energy transfer and harvesting to signal enhancement in sensing and imaging.
+
+For more details about this work, please check our Physics Review Applied paper [here](https://doi.org/10.1103/PhysRevApplied.13.064064) or the full text ([here]({{site.base_path}}/files/allam_3Dprinted.pdf)).
 
 
 
