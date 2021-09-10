@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Ahmed Allam, and I am a postdoctoral fellow in the [smart structures & dynamical systems lab](http://www.ssdsl.gatech.edu/) at Georgia Tech. In my work, I try to balance theory, simulations, and experiments
+Hi there! My name is Ahmed Allam, and I am a postdoctoral fellow in the Smart Structures & Dynamical Systems Lab ([SSDSL](http://www.ssdsl.gatech.edu/)) at Georgia Tech. In my work, I try to balance theory, simulations, and experiments
 in the fields of acoustics and smart materials. My research include:
 * Piezoelectric transducers modeling and design 
 * Active and passive acoustic metamaterials and phononic crystals
