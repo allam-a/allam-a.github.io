@@ -10,7 +10,7 @@ In this project, we collaborated with Tronos Jet Inc. to assess the feasibility 
 detect the defects that might arise during the additive manufacturing (3D-printing) of 
 functional metallic components. We first explored typical defects that arise during 
 selective laser melting (the most common technique to print metals). The defects were generated 
-intentionally by lowering the laser power during printing at certain locatins in the part.
+intentionally by lowering the laser power during printing at certain locations in the part.
 We first characterized the nature of the defects that gets generated using optical microscopy 
 as well as X-ray computed tomography (CT-scaning). We then used an ultrasonic phased array system
 (from Verasonics) to image the samples. Multiple imaging algorithms were tested including TR-Music, 

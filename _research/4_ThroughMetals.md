@@ -5,7 +5,7 @@ collection: research
 ---
 <img src='/images/metalAPT_cover.svg' style='width: 100%'>
 
-In this project, we are developing a permenant system for transferring power through 
+In this project, we are developing a permanent system for transferring power through 
 a metallic system using ultrasonic waves. The system included a bonded transmitter and receiver sending
 ultrasonic power through an anodized aluminum wall. An efficient class E power amplifier
 was designed to be tightly integrated with the ultrasonic system (mechanical components) with minimal electronic
