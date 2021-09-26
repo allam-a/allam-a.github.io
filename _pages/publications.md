@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+## 2021
 1. __A. Allam__, O. Alfahmi, H. Patel, C. Sugino, M. Harding, D. P. Bishop, M. Ruzzene, and A. Erturk, “Ultrasonic testing of thick and thin Inconel 625 alloys manufactured by selective laser melting,” under prep, Additive Manufacturing.
 1. __A. Allam__, C. Sugino, M. Harding, D. P. Bishop, A. Erturk, and M. Ruzzene, “Phased Array Ultrasonic Testing of Inconel 625 Produced by Selective Laser Melting,” ASME Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems, vol. 4, no. 041006, May 2021, doi: [10.1115/1.4050963]( https://doi.org/10.1115/1.4050963). ([Full Text]({{site.base_path}}/files/papers/allam_phased_2021.pdf))
 ## 2020
@@ -23,8 +24,10 @@ author_profile: true
 ## 2016
 1. __A. Allam__, A. Elsabbagh, and W. Akl, “Modeling and Design of Two-Dimensional Membrane-type Active Acoustic Metamaterials with Tunable Anisotropic Density,” The Journal of the Acoustical Society of America, vol. 140, no. 5, pp. 3607–3618, Nov. 2016, doi: [10.1121/1.4966627](https://doi.org/10.1121/1.4966627). ([Preprint]({{site.base_path}}/files/papers/allam_modeling_2016.pdf))
 
+# Doctoral Dissertation
+__A. Allam__, “Acoustic Power Transfer Leveraging Piezoelectricity and Metamaterials,” Ph.D., Georgia Institute of Technology, Atlanta, GA, 2021. ([Full Text]({{site.base_path}}/files/papers/allam_dissertation_2021.pdf}}))
 # Masters Thesis
-A. Allam, “Wave Propagation Control Using Active Acoustic Metamaterials,” MSc., Ain Shams University, Cairo, 2017. doi: [10.13140/RG.2.2.10935.85924](https://doi.org/10.13140/RG.2.2.10935.85924). ([Full Text]({{site.base_path}}/files/papers/allam_wave_2018}}))
+__A. Allam__, “Wave Propagation Control Using Active Acoustic Metamaterials,” MSc., Ain Shams University, Cairo, 2017. doi: [10.13140/RG.2.2.10935.85924](https://doi.org/10.13140/RG.2.2.10935.85924). ([Full Text]({{site.base_path}}/files/papers/allam_wave_2018.pdf}}))
 
 # Conference Proceedings
 1. __A. Allam__, K. Sabra, and A. Erturk, “Enhanced Sound Energy Harvesting by Leveraging Gradient-Index Phononic Crystals,” presented at the ASME 2020 Conference on Smart Materials, Adaptive Structures and Intelligent Systems, Online, Sep. 2020. doi: [10.1115/SMASIS2020-2411](https://doi.org/10.1115/SMASIS2020-2411). ([Slides]({{site.base_path}}/files/slides/allam_SMASIS_2020.pdf))
