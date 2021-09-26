@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-	## 2021
+
 1. __A. Allam__, O. Alfahmi, H. Patel, C. Sugino, M. Harding, D. P. Bishop, M. Ruzzene, and A. Erturk, “Ultrasonic testing of thick and thin Inconel 625 alloys manufactured by selective laser melting,” under prep, Additive Manufacturing.
 1. __A. Allam__, C. Sugino, M. Harding, D. P. Bishop, A. Erturk, and M. Ruzzene, “Phased Array Ultrasonic Testing of Inconel 625 Produced by Selective Laser Melting,” ASME Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems, vol. 4, no. 041006, May 2021, doi: [10.1115/1.4050963]( https://doi.org/10.1115/1.4050963). ([Full Text]({{site.base_path}}/files/papers/allam_phased_2021.pdf))
 ## 2020
