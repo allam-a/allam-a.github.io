@@ -10,8 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
-1. __A. Allam__, O. Alfahmi, H. Patel, C. Sugino, M. Harding, D. P. Bishop, M. Ruzzene, and A. Erturk, “Ultrasonic testing of thick and thin Inconel 625 alloys manufactured by selective laser melting,” under review, Additive Manufacturing.
+1. __A. Allam__, H. Patel, C. Sugino, C. Arrington, C. St. John, J. Steinfeldt, A. Erturk, & I. El-Kady, “Portable through-metal ultrasonic power transfer using a dry-coupled detachable transmitter,” under review, IEEE Transactions on Industrial Electronics.
+1. __A. Allam__, C. Sugino, C. Arrington, C. St. John, J. Steinfeldt, A. Erturk, & I. El-Kady, “System-level DC-to-DC analysis and experiments of ultrasonic power transfer through metallic barriers,” under review, IEEE/ASME Transactions on Mechatronics.
+1. __A. Allam__, O. Alfahmi, H. Patel, C. Sugino, M. Harding, D. P. Bishop, M. Ruzzene, and A. Erturk, “Ultrasonic testing of thick and thin Inconel 625 alloys manufactured by selective laser melting,” under review, Ultrasonics.
 1. __A. Allam__, C. Sugino, M. Harding, D. P. Bishop, A. Erturk, and M. Ruzzene, “Phased Array Ultrasonic Testing of Inconel 625 Produced by Selective Laser Melting,” ASME Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems, vol. 4, no. 041006, May 2021, doi: [10.1115/1.4050963]( https://doi.org/10.1115/1.4050963). ([Full Text]({{site.base_path}}/files/papers/allam_phased_2021.pdf))
 1. __A. Allam__, K. Sabra, and A. Erturk, “Sound Energy Harvesting by Leveraging a 3D-Printed Phononic Crystal Lens,” Applied Physics Letters, vol. 118, no. 10, p. 103504, Mar. 2021, doi: [10.1063/5.0030698](https://doi.org/10.1063/5.0030698). ([Preprint]({{site.base_path}}/files/papers/allam_sound_2021.pdf))
 ## 2020
