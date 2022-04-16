@@ -13,6 +13,7 @@ author_profile: true
 1. __A. Allam__, H. Patel, C. Sugino, C. Arrington, C. St. John, J. Steinfeldt, A. Erturk, & I. El-Kady, “Portable through-metal ultrasonic power transfer using a dry-coupled detachable transmitter,” under review, IEEE Transactions on Industrial Electronics.
 1. __A. Allam__, C. Sugino, C. Arrington, C. St. John, J. Steinfeldt, A. Erturk, & I. El-Kady, “System-level DC-to-DC analysis and experiments of ultrasonic power transfer through metallic barriers,” under review, IEEE/ASME Transactions on Mechatronics.
 1. __A. Allam__, O. Alfahmi, H. Patel, C. Sugino, M. Harding, D. P. Bishop, M. Ruzzene, and A. Erturk, “Ultrasonic testing of thick and thin Inconel 625 alloys manufactured by selective laser melting,” under review, Ultrasonics.
+## 2021
 1. __A. Allam__, C. Sugino, M. Harding, D. P. Bishop, A. Erturk, and M. Ruzzene, “Phased Array Ultrasonic Testing of Inconel 625 Produced by Selective Laser Melting,” ASME Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems, vol. 4, no. 041006, May 2021, doi: [10.1115/1.4050963]( https://doi.org/10.1115/1.4050963). ([Full Text]({{site.base_path}}/files/papers/allam_phased_2021.pdf))
 1. __A. Allam__, K. Sabra, and A. Erturk, “Sound Energy Harvesting by Leveraging a 3D-Printed Phononic Crystal Lens,” Applied Physics Letters, vol. 118, no. 10, p. 103504, Mar. 2021, doi: [10.1063/5.0030698](https://doi.org/10.1063/5.0030698). ([Preprint]({{site.base_path}}/files/papers/allam_sound_2021.pdf))
 ## 2020
@@ -39,6 +40,7 @@ __A. Allam__, “Wave Propagation Control Using Active Acoustic Metamaterials,�
 1. __A. Allam__ and T. Elnady, “Characterization of mufflers,” presented at the International congress on acoustics, Buenos Aires, Sep. 2016. Accessed: Sep. 23, 2016. ([Available Online](http://www.ica2016.org.ar/ica2016proceedings/ica2016/ICA2016-0882.pdf)) ([Slides]({{site.base_path}}/files/slides/allam_ICA_2016.pdf))
 
 # Conference Presentations/Posters
+1. __A. Allam__, K. Sabra, and A. Erturk, “Double phononic crystal lens-based enhancement of underwater power transfer,” 181st Meeting of the Acoustical Society of America, Seattle, Washington, 29 Nov - 3 Dec 2021.([Slides]({{site.base_path}}/files/slides/allam_ASA_2021.pdf))
 1. __A. Allam__, C. Sugino, M. Harding, D. P. Bishop, A. Erturk, and M. Ruzzene, “Ultrasonic Inspection of Additive Manufactured Components,” QNDE 2020, Virtual, Online Conference, 25 -26 Aug 2020. ([Slides]({{site.base_path}}/files/slides/allam_QNDE_2020.pdf))
 1. __A. Allam__, K. Sabra, and A. Erturk, “Controlling Underwater Sound Propagation Using 3D-Printed Phononic Crystals,” 178th Meeting of the Acoustical Society of America, San Diego, California, 2-6 Dec 2019. ([Slides]({{site.base_path}}/files/slides/allam_ASA_2019.pdf))
 1. __A. Allam__, K. Sabra, and A. Erturk, “Gradient-Index Phononic Crystals for Manipulating Sound in Acoustic Power Transfer Applications,” Phononics 2019, Tucson, Arizona, 3-7 June 2019. ([Poster]({{site.base_path}}/files/slides/allam_phononics_2019.pdf))

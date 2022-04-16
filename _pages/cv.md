@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-A PDF version of my CV can be <a href="{{Site.base_path}}/files/Ahmed_Allam_CV.pdf">downloaded from here</a>.
+Download a PDF of my CV <a href="{{Site.base_path}}/files/Ahmed_Allam_CV.pdf">here</a>.
 
 Education
 ======
@@ -22,18 +22,21 @@ Work experience
 ======
 * **Smart Structures and Dynamical Systems Lab (<a href="http://www.ssdsl.gatech.edu/">SSDSL</a>), Georgia Tech. Atlanta, GA**			(Jan. 2018 – Present)
 	* **Post-doctoral fellow (Sept 2021 – Present), Graduate Research Assistant** (Jan 2018 – Aug 2021)
-		* Contributed to 3 funded research projects under the supervision of Prof. Alper Erturk and Prof. Karim Sabra.
-		* Collaborated with 8 lab peers, 3 visiting scholars, and external collaborators from the industry, national labs, and other universities.
-		* Recommended and handled the requisition of *key lab equipment* including an ultrasonic phased array system, 3D printers, hydrophones, data acquisition systems, and other testing equipment.
-		* Designed and fabricated severable wideband piezoelectric immersion transducers capable of transmitting power and data simultaneously underwater using ultrasonic waves.  (MATLAB/LabVIEW)
-		* Collaborated with Sandia National Labs to develop a portable ultrasonic power transfer system prototype for sealed metallic enclosures. (COMSOL/MATLAB/SolidWorks/Keysight ADS)
-		* Collaborated with engineers from Tronos Inc, and the University of Colorado to develop new techniques for non-destructive testing of 3D-printed aerospace components using phased arrays and scanning laser vibrometry. (Verasonics/Polytech)
-		* Constructed and programmed a 3-axis stage for a scanning hydrophone setup. (SolidWorks/MATLAB/LabVIEW)
-		* Designed, 3D-printed, and experimentally tested the first 3D lens for focusing aqueous ultrasonic waves using graded phononic crystals/metamaterials concepts. (COMSOL/MATLAB/AUTOCAD) 
-		* Created and tested an airborne sound energy harvesting system leveraging phononic crystals for enhanced electric power output. (COMSOL/MATLAB/AUTOCAD)
-		* Developed new analytical models to simulate acoustic power transfer systems with practical transducer sizes. (Mathematica)
-		
-		* Teamed with a visiting scholar to develop a new class of active piezoelectric metamaterials for manipulating surface acoustic waves (COMSOL/MATLAB).
+		* Prototyping a portable ultrasonic system for transmitting data through sealed metallic enclosures.
+		* Developing an active acoustic tag for underwater navigation.
+		* Investigating a high-intensity focused ultrasound (HIFU) solution for high strain rate testing of materials.
+ 
+		* Led 3 research projects funded by the NSF, Sandia National Labs, Tronos Jet Inc under the supervision of Prof. Alper Erturk and Prof. Karim Sabra.
+		* Collaborated with 12 lab peers, 3 visiting scholars, and external collaborators from the industry, national labs, and other universities.
+		* Recommended and handled the requisition of key laboratory equipment including an ultrasonic phased array system, 3D printers, hydrophones, data acquisition systems, and other testing equipment.
+		* Designed and fabricated several wideband piezoelectric immersion transducers capable of transmitting power and data simultaneously underwater using ultrasonic waves. 
+		* Collaborated with Sandia National Labs to develop a portable ultrasonic power transfer system prototype for sealed metallic enclosures. The device could transmit 3W of power with 50% efficiency without the need for liquid coupling.
+		* Collaborated with engineers from Tronos Inc, and Prof. Massimo Ruzzene from the University of Colorado to develop concepts for non-destructive testing of 3D-printed metallic components using phased arrays and scanning laser vibrometry. Defects down to 0.25 mm were detected in 3D-printed Inconel 625 alloys.
+		* Designed, 3D-printed, and experimentally tested the first 3D acoustic lens for focusing aqueous ultrasonic waves using graded phononic crystals/metamaterials concepts. 
+		* Created and tested an airborne sound energy harvesting system leveraging phononic crystals for enhanced electric power output. The system generated 1.2µW of power compared to nWs previously reported in the literature.
+		* Developed new analytical models to simulate acoustic power transfer systems with practical transducer sizes.
+		* Teamed with a visiting scholar to develop a new class of active piezoelectric metamaterials for manipulating surface acoustic waves. The material can be programmed to convert surface waves to shear waves or reflect them completely.
+
 
 * **Elnady Engineering & Agencies (<a href="https://elnadycompany.com/">NC</a>): Acoustics & Software Development. Cairo, Egypt**		(Jan. 2016 – Jan. 2018)
 	* **Acoustic Engineer** 
