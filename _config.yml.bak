@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ahmed Allam"
   avatar           : "profile.jpg"
-  bio              : "Post-doctoral Associate"
-  location         : "Cambridge, MA"
-  employer         : "Massachusetts Institute of Technology"
+  bio              : "Post-doctoral Fellow"
+  location         : "Atlanta, GA"
+  employer         : "Georgia Institute of Technology"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4yG5nxEAAAAJ&hl=en"
-  email            : "allam@mit.edu"
+  email            : "a.allam@gatech.edu"
   researchgate     : "https://www.researchgate.net/profile/Ahmed-Allam-23"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
