@@ -22,4 +22,4 @@ I am using this knowledge to communicate with scientists and engineers from diff
 to coordinate interdisciplinary work on different levels.
 <br/><img src='/images/MIT_logo.svg' style='width: 30%'>
 <img src='/images/GT_logo.svg' style='width: 28%'>
-<img src='/images/Ain_Shams_logo.png' style='width: 25%'>
+<img src='/images/Ain_Shams_logo.png' style='width: 22%'>
