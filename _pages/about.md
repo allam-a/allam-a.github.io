@@ -20,3 +20,6 @@ in the fields of acoustics and smart materials. My research spans:
 I am a mechatronics engineer by training, and I enjoy programming, electronics, and mechanical design. 
 I am using this knowledge to communicate with scientists and engineers from different backgrounds, 
 to coordinate interdisciplinary work on different levels.
+<br/><img src='/images/MIT_logo.svg' style='width: 30%'>
+<img src='/images/GT_logo.svg' style='width: 30%'>
+<img src='/images/Ain_Shams_logo.png' style='width: 30%'>
