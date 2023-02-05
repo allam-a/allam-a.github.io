@@ -30,6 +30,7 @@ During my PhD, I:
 3. developed piezoelectric transducers to provide simultaneous power and data to IoT sensors, and 
 4. developed new techniques to inspect 3D-printed metals using ultrasonic waves.
 <br/>
+
 Currently, I am working with [Prof. Fadel Adib](http://www.mit.edu/~fadel/) at the MIT Media Lab to develop battery-free underwater sensing and communication systems for ocean monitoring and exploration. 
 
 <br/><img src='/images/MIT_logo.svg' style='width: 30%'>
