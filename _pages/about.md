@@ -13,8 +13,7 @@ My work focuses on emerging domains such as low-power underwater and in-body sen
 * Ultrasonic power and data transfer systems
 * Underwater IoT and backscatter communications
 * Piezoelectric transducers modeling and design 
-* Active and passive acoustic metamaterials and phononic crystals
-* 3D-printed acoustic materials
+* Acoustic metamaterials and 3D-printed materials
 * Ultrasonic phased arrays and non-destructive testing (NDT)
 * Acoustic testing and automation
 
