@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ahmed Allam"
   avatar           : "profile.jpg"
-  bio              : "Post-doctoral Associate"
-  location         : "Cambridge, MA"
-  employer         : "Massachusetts Institute of Technology"
+  bio              : "Assistant Professor"
+  location         : "Cincinnati, OH"
+  employer         : "University of Cincinnati"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4yG5nxEAAAAJ&hl=en"
-  email            : "allam@mit.edu"
+  email            : "ahmed.allam@uc.edu"
   researchgate     : "https://www.researchgate.net/profile/Ahmed-Allam-23"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
