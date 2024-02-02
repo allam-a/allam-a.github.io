@@ -33,7 +33,7 @@ During my PhD, I:
 
 I did a Postdoc with [Prof. Fadel Adib](http://www.mit.edu/~fadel/) at the MIT Media Lab in which I developped battery-free underwater sensing and communication systems for ocean monitoring and exploration. 
 
-<br/><img src='/images/UC_logo.svg' style='width: 30%'>
-<img src='/images/MIT_logo.svg' style='width: 30%'>
-<img src='/images/GT_logo.svg' style='width: 28%'>
-<img src='/images/Ain_Shams_logo.png' style='width: 22%'>
+<br/><img src='/images/UC_logo.svg' style='width: 25%'>
+<img src='/images/MIT_logo.svg' style='width: 24%'>
+<img src='/images/GT_logo.svg' style='width: 23%'>
+<img src='/images/Ain_Shams_logo.png' style='width: 18%'>
