@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Ahmed Allam, a postdoctoral associate in the [Signal Kinetics Lab](https://www.media.mit.edu/groups/signal-kinetics/overview/) at MIT. I am excited about building ultrasound and acoustic systems that tackle global challenges such as climate monitoring and affordable healthcare.
+Hello! I am Ahmed Allam, an Assistant Professor at the department of Mechanical & Materials Engineering at the University of Cincinnati. Currently, I am leading the UC [Metasonics lab](https://www.metasonicslab.com) which builds acoustic systems that tackle global challenges such as climate monitoring and affordable healthcare.
 My work focuses on emerging domains such as low-power underwater and in-body sensing, additive manufacturing, and industry 4.0. It spans: 
 * Ultrasonic power and data transfer systems
 * Underwater IoT and backscatter communications
@@ -31,8 +31,9 @@ During my PhD, I:
 4. developed new techniques to inspect 3D-printed metals using ultrasonic waves.
 <br/>
 
-Currently, I am working with [Prof. Fadel Adib](http://www.mit.edu/~fadel/) at the MIT Media Lab to develop battery-free underwater sensing and communication systems for ocean monitoring and exploration. 
+I did a Postdoc with [Prof. Fadel Adib](http://www.mit.edu/~fadel/) at the MIT Media Lab in which I developped battery-free underwater sensing and communication systems for ocean monitoring and exploration. 
 
-<br/><img src='/images/MIT_logo.svg' style='width: 30%'>
+<br/><img src='/images/UC_logo.svg' style='width: 30%'>
+<img src='/images/MIT_logo.svg' style='width: 30%'>
 <img src='/images/GT_logo.svg' style='width: 28%'>
 <img src='/images/Ain_Shams_logo.png' style='width: 22%'>
